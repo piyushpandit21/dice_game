@@ -6,8 +6,9 @@
 h2{
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: #4ECCA3;
+  padding-left: 40px;
 }
 .dice {
   text-align: center;
@@ -39,8 +40,12 @@ img {
 
 footer {
   margin-top: 5%;
-  color: inherit; 
+  color: #EEEEEE; 
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
+footer>a{
+  color: inherit;
+  font-size: 2rem;
+}
+
